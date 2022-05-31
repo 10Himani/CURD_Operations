@@ -1,0 +1,15 @@
+{
+  "name": "back_end_curd",
+  "version": "1.0.0",
+  "description": "We will learn how to install and use axios in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ads",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
